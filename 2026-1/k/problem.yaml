@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Contingência
+uuid: 7f3d5197-a8bf-59d9-982b-c63fc2feba47
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Francisco Elio Parente Arcos Filho
+source:
+  name: mdp-br-fp-2026
+license: unknown

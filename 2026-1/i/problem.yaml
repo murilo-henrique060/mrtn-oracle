@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Porquinho-da-Índia
+uuid: cff2cdc0-8a45-5f78-948e-1f2dd825a14f
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Moroni Silverio Flores
+source:
+  name: mdp-br-fp-2026
+license: unknown

@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Semáforos
+uuid: e5db1724-0426-5a2f-a6b8-57b017396f86
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Arthur Nascimento
+source:
+  name: mdp-br-fp-2026
+license: unknown

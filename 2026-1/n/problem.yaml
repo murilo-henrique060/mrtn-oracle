@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Chaves da Nlogônia
+uuid: ea1d1760-5fd0-519b-91b7-2895a6a4df2b
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Vinicius dos Santos
+source:
+  name: mdp-br-fp-2026
+license: unknown

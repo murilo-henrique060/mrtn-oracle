@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Sequências
+uuid: e66a2da9-f6c2-57d7-a2ab-2d92b6542737
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Arthur Nascimento
+source:
+  name: mdp-br-fp-2026
+license: unknown

@@ -1,0 +1,19 @@
+problem_format_version: 2025-09
+name:
+  pt-BR: Câmbio
+uuid: cec87c6a-c3ea-5ffe-8586-fcc50c13c1fc
+type: pass-fail
+limits:
+  compilation_time: 60
+  compilation_memory: 2048
+  memory: 2048
+  output: 100
+  validation_time: 60
+  validation_memory: 2048
+  validation_output: 8
+credits:
+  authors:
+  - Vinicius dos Santos
+source:
+  name: mdp-br-fp-2026
+license: unknown
