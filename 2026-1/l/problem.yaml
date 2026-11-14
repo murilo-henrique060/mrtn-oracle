@@ -4,6 +4,7 @@ name:
 uuid: e8924e66-d07a-5c9f-b473-4b485decf6bb
 type: pass-fail
 limits:
+  time: 1
   compilation_time: 60
   compilation_memory: 2048
   memory: 2048
